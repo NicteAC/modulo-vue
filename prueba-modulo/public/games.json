@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Grand Theft Auto V",
+        "id": 1,
+        "rating": 4.48,
+        "released": "2013-09-17",
+        "updated": "2020-09-23",
+        "background_image": "https://cdn.forbes.com.mx/2020/05/Grand-Theft-Auto-V-640x360.jpg"
+    },
+    {
+        "name": "Portal 2",
+        "id": 2,
+        "rating": 4.62,
+        "released": "2011-04-18",
+        "updated": "2020-08-03",
+        "background_image": "https://pivigames.blog/wp-content/uploads/2018/07/portal-2-mac-2844-0-min.jpg"
+    },
+    {
+        "name": "Exerion",
+        "id": 3,
+        "rating": 7,
+        "released": "1989-07-18",
+        "updated": "1990-08-01",
+        "background_image": "https://www.retrusgamer.com/wp-content/uploads/2018/10/Sin-t%C3%ADtuloierir.jpg"
+    },
+    {
+        "name": "Vulgus",
+        "id": 4,
+        "rating": 8.1,
+        "released": "1988-04-28",
+        "updated": "1999-09-03",
+        "background_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1556700/header.jpg"
+    },
+    {
+        "name": "Street Fighter",
+        "id": 5,
+        "rating": 4.1,
+        "released": "1981-04-18",
+        "updated": "1983-11-03",
+        "background_image": "https://as01.epimg.net/meristation/imagenes/2022/01/10/noticias/1641815159_168936_1641815265_noticia_normal.jpg"
+    },
+    {
+        "name": "Galaga",
+        "id": 6,
+        "rating": 10,
+        "released": "2011-04-30",
+        "updated": "2020-08-11",
+        "background_image": "https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/games_15/virtual_console_wii_u_7/SI_WiiUVC_Galaga_image1600w.jpg"
+    }
+]
