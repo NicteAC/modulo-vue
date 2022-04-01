@@ -2,7 +2,7 @@
   <div>
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
       <div class="container-fluid">
-        <a class="navbar-brand mx-1" href="#">
+        <a class="navbar-brand mx-1" href="/">
           <font-awesome-icon class="mx-2" :icon="['fas', 'headset']" />Games
           Opinion
         </a>

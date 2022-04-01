@@ -1,7 +1,9 @@
 <template>
-  <div class="notfound">
-    <h1 class="notfound__title">404</h1>
-    <p class="notfound__p">Not Found</p>
+  <div class="container">
+    <div class="notfound">
+      <h1 class="notfound__title">404</h1>
+      <p class="notfound__p">Not Found</p>
+    </div>
   </div>
 </template>
 
@@ -11,7 +13,8 @@ export default {};
 
 <style lang="scss" scoped>
 .notfound {
-  height: 90vh;
+  margin: 5vh auto;
+  height: 80vh;
   background: rgb(238, 174, 202);
   background: radial-gradient(
     circle,

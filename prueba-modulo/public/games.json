@@ -1,0 +1,74 @@
+[
+    {   "id": 1,
+        "name": "Grand Theft Auto V",
+        "rating": 4.48,
+        "released": "2013-09-17",
+        "updated": "2020-09-23",
+        "background_image": "https://cdn.forbes.com.mx/2020/05/Grand-Theft-Auto-V-640x360.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Portal 2",
+        "rating": 4.62,
+        "released": "2011-04-18",
+        "updated": "2020-08-03",
+        "background_image": "https://pivigames.blog/wp-content/uploads/2018/07/portal-2-mac-2844-0-min.jpg"
+    },
+    {
+        "id": 3,
+        "name": "world of warcraft",
+        "rating": 3.75,
+        "released": "2004-11-23",
+        "updated": "2022-02-10",
+        "background_image": "https://i.3djuegos.com/juegos/12321/world_of_warcraft_council_of_glades/fotos/maestras/world_of_warcraft_council_of_glades-3447467.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Manz Wordle",
+        "rating": 5,
+        "released": "202-02-09",
+        "updated": "22-03-08",
+        "background_image": "https://manzdev.github.io/twitch-wordle/wordle.png"
+    },
+    {
+        "id": 5,
+        "name": "Among Us",
+        "rating": 4.15,
+        "released": "2018-06-15",
+        "updated": "2021-12-14",
+        "background_image": "https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_download_software_1/H2x1_NSwitchDS_AmongUs.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Roblox",
+        "rating": 5.75,
+        "released": "2006-09-01",
+        "updated": "2022-03-31",
+        "background_image": "https://diarioinforme.com/wp-content/uploads/2021/04/Como-eliminar-tu-cuenta-de-Roblox.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Minecraft",
+        "rating": 5.05,
+        "released": "2011-11-18",
+        "updated": "2021-11-30",
+        "background_image": "https://i.blogs.es/ddcd49/minecraft/840_560.jpg"
+    },
+    {
+        "id": 8,
+        "name": "The one who pulls out the sword will be crowned king",
+        "rating": 4.75,
+        "released": "2022-03-28",
+        "updated": "-",
+        "background_image": "https://img.itch.zone/aW1nLzY5NzA5MzUuanBn/original/W%2FbBmG.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Fortnite",
+        "rating": 4.75,
+        "released": "2017-06-21",
+        "updated": "2022-20-03",
+        "background_image": "https://static-assets-prod.epicgames.com/fortnite/static/webpack/8f9484f10eb14f85a189fb6117a57026.jpg"
+    }
+]
+

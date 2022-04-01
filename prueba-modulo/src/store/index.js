@@ -1,10 +1,11 @@
 import Vue from "vue";
 import Vuex from "vuex";
+import axios from "axios";
 import createPersistedState from "vuex-persistedstate";
 
 Vue.use(Vuex);
 
-export default new Vuex.Store({
+const store = new Vuex.Store({
   state: {
     games: [],
   },
@@ -14,16 +15,17 @@ export default new Vuex.Store({
     },
   },
   actions: {
-    async getData({ commit }) {
-      try {
-        const request = await ("data.json");
-        commit("SET_DATA", request.data);
-      } catch (error) {
-        console.log(error);
-      }
+    async getGames({ commit }) {
+      const url = "/games.json";
+      const response = await axios.get(url);
+      const { data: games } = response;
+      commit("SET_GAMES", games);
     },
   },
   modules: {},
 
   plugins: [createPersistedState()],
 });
+store.dispatch("getGames");
+
+export default store;
